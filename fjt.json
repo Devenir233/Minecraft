@@ -1,0 +1,17 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:block": {
+        "description": {
+            "identifier": "cheng:fjt"
+        },
+        "components": {
+            "minecraft:destroy_time": 5,
+            "minecraft:crafting_table": {
+                "grid_size": 3,
+                "crafting_tags": [
+                    "分解台"
+                ]
+            }
+        }
+    }
+}
